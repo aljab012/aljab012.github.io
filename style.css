@@ -26,10 +26,10 @@ body {
     max-width: 250px;
     float: left;
     padding-right: 50px;
-    padding-bottom: 200px;
+    padding-bottom: 50px;
 }
 #profile-intro{
-    padding-left: 120px;
-    padding-right: 70px;
+    /* padding-left: 120px;
+    padding-right: 70px; */
     max-width: 1000px;
 }
