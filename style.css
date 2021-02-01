@@ -10,11 +10,25 @@
     font-size: large;
 }
 #main_content {
-    margin-top: 100px;
+    margin-top: 150px;
     font-family: 'Lato', sans-serif;
 }
 .navbar-brand{
     font-family:"Sofia", sans-serif;
     font-size: larger;
 }
-body {background-color: #f7f7f7;}
+body {
+    background-color: #f7f7f7;
+}
+
+#profile-img{
+    max-width: 250px;
+    float: left;
+    padding-right: 50px;
+    padding-bottom: 600px;
+}
+#profile-intro{
+    padding-left: 120px;
+    padding-right: 70px;
+    width: 1000px;
+}
