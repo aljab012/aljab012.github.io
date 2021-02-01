@@ -10,7 +10,7 @@
     font-size: large;
 }
 #main_content {
-    margin-top: 150px;
+    margin-top: 100px;
     font-family: 'Lato', sans-serif;
     
 }
@@ -26,7 +26,7 @@ body {
     max-width: 250px;
     float: left;
     padding-right: 50px;
-    padding-bottom: 600px;
+    padding-bottom: 200px;
 }
 #profile-intro{
     padding-left: 120px;
