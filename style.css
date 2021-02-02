@@ -34,4 +34,7 @@ body {
 
 #resume-page{
     margin: auto;
+    padding-top: 60px;
+    max-width: 1000px;
+    line-height: 2.5;
 }
