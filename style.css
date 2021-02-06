@@ -40,9 +40,8 @@ body {
 }
 
 #myImage{
-    display: block;
     max-width:888px;
-    max-height:499px;
-    width: auto;
+    max-height:500px;
+    width: 100%;
     height: auto;
 }
