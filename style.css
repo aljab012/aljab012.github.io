@@ -38,3 +38,11 @@ body {
     max-width: 1000px;
     line-height: 2.5;
 }
+
+#myImage{
+    display: block;
+    max-width:888px;
+    max-height:499px;
+    width: auto;
+    height: auto;
+}
