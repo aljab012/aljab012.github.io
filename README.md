@@ -2,4 +2,4 @@
 
 My personal website.
 
-links: https://aljab012.github.io/ or https://jabri.dev/
+Links: https://aljab012.github.io/ or https://jabri.dev/
